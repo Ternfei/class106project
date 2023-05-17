@@ -1,0 +1,13 @@
+center {
+    background-color: aquamarine;
+}
+
+#footer {
+    background-color: blue;
+    position: fixed;
+    padding-top: 10%;
+}
+
+body{
+    background-color: chartreuse;
+}
